@@ -17,3 +17,6 @@ Let's try to understand the working of the pull requests.
 
 
 checking if changes in master branch require pull requests or are directly commited?
+YES! Local:master -- Remote:master , changes are reflected directly.
+
+But , Other Remote:master to Remote:feature - requires pull requests.
